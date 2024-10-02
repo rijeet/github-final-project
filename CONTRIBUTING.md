@@ -1,5 +1,5 @@
 # Contributing
-
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 Please feel free to submit pull requests or open issues to improve the language of this document
 or to provide additional [translations](https://www.contributor-covenant.org/translations).
 
